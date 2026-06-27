@@ -1,5 +1,7 @@
 Hi there 👋, I'm Rolemir Zayas
+
 Full Stack Developer | Computer Science Student
+
 I'm a Computer Science student from the Philippines passionate about building modern web applications using Laravel, React, PHP, and JavaScript.
 
 - 🎓 BS Computer Science Student
