@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋, I'm Rolemir Zayas
+Full Stack Developer | Computer Science Student
+I'm a Computer Science student from the Philippines passionate about building modern web applications using Laravel, React, PHP, and JavaScript.
 
-<!--
-**kirkiboi/kirkiboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BS Computer Science Student
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning Laravel + React
+- 📚 Interested in Software Engineering and Web Development
+- ⚡ Building projects to improve my skills every day
 
-Here are some ideas to get you started:
+Check my portfolio here: https://rzayasdev.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I'm not found around here, you'll see me in the mountains either hiking or trail running :)
