@@ -1,18 +1,12 @@
-# Rolemir Zayas
+#Rolemir Zayas
 
-### Aspiring Full-Stack Developer | Computer Science Student
+### Computer Science Student aspiring to pursue a career in Software Engineering or Cybersecurity
 
-I'm a Computer Science student from the Philippines passionate about building modern web applications and continuously improving my skills through real-world projects.
+I'm a Computer Science student from the Philippines, passionate about building modern web applications, exploring cybersecurity, and continuously developing my technical skills through real-world projects.
 
 Outside of coding, you'll probably find me hiking mountains or out on a trail run. 🥾
 
 --- 
-
-- 🎓 BS Computer Science Student
-- 💻 Building full-stack web applications
-- 🌱 Currently learning Laravel + React
-- 📚 Interested in Software Engineering and Web Development
-- ⚡ Building projects to improve my skills every day
 
 ### Languages and Tools
 <p align="center">
@@ -48,4 +42,3 @@ Outside of coding, you'll probably find me hiking mountains or out on a trail ru
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kirkiboi&theme=tokyonight&hide_border=true"/>
 </p>
-
