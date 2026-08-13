@@ -1,10 +1,8 @@
-#Rolemir Zayas
+# Rolemir Zayas
 
 ### Computer Science Student aspiring to pursue a career in Software Engineering or Cybersecurity
 
-I'm a Computer Science student from the Philippines, passionate about building modern web applications, exploring cybersecurity, and continuously developing my technical skills through real-world projects.
-
-Outside of coding, you'll probably find me hiking mountains or out on a trail run. 🥾
+Computer Science student from the Philippines, passionate about building modern web applications, exploring cybersecurity, and continuously developing my technical skills through real-world projects.
 
 --- 
 
@@ -25,6 +23,7 @@ Outside of coding, you'll probably find me hiking mountains or out on a trail ru
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
 
 ---
@@ -33,11 +32,6 @@ Outside of coding, you'll probably find me hiking mountains or out on a trail ru
 
 <https://rzayasdev.vercel.app>
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kirkiboi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirkiboi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kirkiboi&theme=tokyonight&hide_border=true"/>
