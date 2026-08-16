@@ -2,7 +2,7 @@
 
 ### Computer Science Student aspiring to pursue a career in Software Engineering or Cybersecurity
 
-Computer Science student from the Philippines, passionate about building modern web applications, exploring cybersecurity, and continuously developing my technical skills through real-world projects.
+I am from the Philippines, passionate about building modern web applications, exploring cybersecurity, and continuously developing my technical skills through real-world projects.
 
 --- 
 
