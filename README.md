@@ -28,7 +28,7 @@ I am from the Philippines, passionate about building modern web applications, ex
 
 ---
 
-You can also check my portfolio here if you'd like to know more about me!
+Check my portfolio here if you'd like to know more about me!
 <https://rzayasdev.vercel.app>
 ## 📊 GitHub Stats
 
